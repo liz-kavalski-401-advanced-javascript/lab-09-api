@@ -1,5 +1,9 @@
 'use strict';
-
+/** 
+ * This file is to retrive request from the client send them to corronsponing models
+ * It will also send respons back to the client once the request is completed 
+ * Or send an error if their a sever or page not found.
+*/
 
 const cwd = process.cwd();
 
