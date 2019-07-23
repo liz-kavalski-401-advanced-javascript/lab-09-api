@@ -3,9 +3,9 @@
 ### Author: Liz Kavalski
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/liz-kavalski-401-advanced-javascript/lab-09-api/pull/1)
+* [back-end](http://xyz.com) (when applicable)-none at this point
+* [front-end](http://xyz.com) (when applicable)-none at this point
 
 #### Documentation
 __At this point none of the configuation for documatation is working!!!__
