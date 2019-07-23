@@ -13,7 +13,7 @@ __At this point none of the configuation for documatation is working!!!__
 * [jsdoc](http://xyz.com) (Server assignments)
 
 ### Modules
-At this point I do not know how to fills this out correctly.
+At this point I do not know how to fills this part out correctly.
 
 ### Setup
 #### `.env` requirements
@@ -27,4 +27,4 @@ At this point I do not know how to fills this out correctly.
 * Run `npm test` to run the tests.
 
 #### UML
-![UML]()
+![UML](https://github.com/liz-kavalski-401-advanced-javascript/pictures/blob/master/images/Lab%209-small.jpg)
