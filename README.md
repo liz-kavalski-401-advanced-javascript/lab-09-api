@@ -4,8 +4,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/liz-kavalski-401-advanced-javascript/lab-09-api/pull/1)
-* [back-end](http://xyz.com) (when applicable)-none at this point
-* [front-end](http://xyz.com) (when applicable)-none at this point
+* [Heruko](https://lab-09-api.herokuapp.com)
 
 #### Documentation
 __At this point none of the configuation for documatation is working!!!__
