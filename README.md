@@ -9,8 +9,7 @@
 
 #### Documentation
 __At this point none of the configuation for documatation is working!!!__
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
+* [jsdoc](https://lab-09-api.herokuapp.com/docs) (Server assignments)
 
 ### Modules
 At this point I do not know how to fills this part out correctly.
